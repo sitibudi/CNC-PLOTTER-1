@@ -1,0 +1,12 @@
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\bin\Debug\udp_robotTurtle03.exe.config
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\bin\Debug\udp_robotTurtle03.exe
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\bin\Debug\udp_robotTurtle03.pdb
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\bin\Debug\udp_robotTurtle03.xml
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.Form1.resources
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.Resources.resources
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.vbproj.GenerateResource.cache
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.vbproj.CoreCompileInputs.cache
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.exe
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.xml
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.pdb
+D:\my_documents\FT\_periode2\_Penelitian\Penelitian2021\Aan_ratna_Agus\soft_vb\udp_robotTurtle03\udp_robotTurtle03\obj\Debug\udp_robotTurtle03.vbproj.AssemblyReference.cache
